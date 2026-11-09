@@ -6,5 +6,5 @@ It handles everything from extracting scattered parquet files to generating unif
 ⚠️ Dataset Availability
 
 To works with the dataset used in this project follow next steps:
-1. Download [Data](https://github.com/Ayda-ce/Tennis-Data-ETL-and-Analysis/blob/main/Data.rar) file.
+1. Download [Data](https://github.com/IDA-ce/Tennis-Data-ETL-and-Analysis/blob/main/Data.rar) file.
 2. Extract `Data.zip` inside the folder `tennis_data`.
